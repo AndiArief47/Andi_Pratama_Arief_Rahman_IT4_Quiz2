@@ -4,6 +4,4 @@ step 2 : import all libraries that needed in this program import mysql.connector
 
 step 3 : create database using xampp 
 
-step 4 : copy the code in quiz2.py 
-
-step 5 : good luck
+step 4 : copy the code in main.py 
